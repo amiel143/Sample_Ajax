@@ -1,18 +1,30 @@
+[
 {
-    "id": 1,
-    "name": "John doe",
-    "email": "sample@grc.com",
-    "phone": "+1-202-555-0173",
-    "address": {
-        "street": "123 main ST.",
-        "city": "Anytown",
-        "state": "CA",
-        "zip": "12345"
-    },
-    "company": {
-        "name": "Tect Solutions",
-        "position": "Software Engineer",
-        "department": "Development"
-    }
+    "id" :1,
+    "quote" :"gold is time",
+    "author" :"amiel"
+},
 
+{
+    "id" :2,
+    "quote" :"kaya mo yan",
+    "author" :"lester"
+},
+
+{
+    "id" :3,
+    "quote" :"walang panget",
+    "author" :"ludo"
+},
+{
+    "id" :4,
+    "quote" :"walang pake sayo",
+    "author" :"merc"
+},
+{
+    "id" :5,
+    "quote" :"ok nayan",
+    "author" :"lester"
 }
+
+]
